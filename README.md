@@ -1,4 +1,7 @@
-### Hi there 👋
+### Social
+[![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&link=https://t.me/sfkulagin)](https://t.me/sfkulagin)
+
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/talkafk/badges/large)
