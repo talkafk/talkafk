@@ -1,6 +1,8 @@
-### Social
 [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&link=https://t.me/sfkulagin)](https://t.me/sfkulagin)
 
+- Python fun
+- Godot indie game developer
+- Arduino enthusiast
 
 ### 💻 Codewars:
 
