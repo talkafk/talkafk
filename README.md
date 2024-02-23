@@ -7,7 +7,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/talkafk/badges/large)
+[![codewars](https://www.codewars.com/users/talkafk/badges/large)](https://www.codewars.com/users/talkafk)
 
 ### ⚙️ GitHub stats:
 
