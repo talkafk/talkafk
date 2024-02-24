@@ -12,6 +12,14 @@
 ### Wakatime:
 
 <!--START_SECTION:waka-->
+
+```txt
+GDScript     1 hr 31 mins    ███████████████▒░░░░░░░░░   61.46 %
+Markdown     49 mins         ████████▒░░░░░░░░░░░░░░░░   33.31 %
+Python       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+```
+
 <!--END_SECTION:waka-->
 
 ### GitHub stats:
