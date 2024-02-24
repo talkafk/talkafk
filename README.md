@@ -3,6 +3,7 @@
 
 - Python fun
 - Godot indie game developer
+- DevOps engineer
 - Arduino enthusiast
 
 ### Codewars:
