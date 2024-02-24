@@ -1,15 +1,20 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&link=https://t.me/sfkulagin)](https://t.me/sfkulagin)
-### 👨‍💻 About me:
+### About me:
 
 - Python fun
 - Godot indie game developer
 - Arduino enthusiast
 
-### 💻 Codewars:
+### Codewars:
 
 [![codewars](https://www.codewars.com/users/talkafk/badges/large)](https://www.codewars.com/users/talkafk)
 
-### ⚙️ GitHub stats:
+### Wakatime:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### GitHub stats:
 
 <table>
   <tr>
