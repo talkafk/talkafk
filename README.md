@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 15 mins   ████████████░░░░░░░░░░░░░   47.59 %
-GDScript     2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-JavaScript   1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Markdown     59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Docker       51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Python       4 hrs 11 mins   █████████░░░░░░░░░░░░░░░░   36.55 %
+GDScript     2 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+JavaScript   2 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+Markdown     1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Git Config   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
