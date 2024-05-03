@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         11 hrs 35 mins  ████████▓░░░░░░░░░░░░░░░░   34.79 %
-JavaScript     7 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-CSS            5 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-textmate       2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Markdown       1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Python         12 hrs 5 mins   █████████▓░░░░░░░░░░░░░░░   38.36 %
+JavaScript     5 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+CSS            4 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+textmate       2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Markdown       1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:waka-->
