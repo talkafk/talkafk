@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     45 mins         ██████████▒░░░░░░░░░░░░░░   41.63 %
-Markdown                   41 mins         █████████▒░░░░░░░░░░░░░░░   37.59 %
-YAML                       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-HTML                       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Nginx configuration file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Markdown                   53 mins         ███████████▒░░░░░░░░░░░░░   45.19 %
+Python                     45 mins         █████████▓░░░░░░░░░░░░░░░   38.39 %
+YAML                       13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Nginx configuration file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+textmate                   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
