@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 mins          ██████████████████▓░░░░░░   74.65 %
-GDScript   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
+Markdown   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
