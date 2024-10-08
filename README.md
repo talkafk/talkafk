@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript   9 hrs 46 mins   █████████████████████████   100.00 %
+GDScript   7 hrs 38 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
