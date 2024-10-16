@@ -15,8 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript   13 hrs 7 mins   ███████████████████████▒░   93.52 %
-Markdown   54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+GDScript   20 hrs 3 mins   ██████████████████████▓░░   91.02 %
+Markdown   1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
