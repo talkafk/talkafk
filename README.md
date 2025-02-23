@@ -25,14 +25,14 @@ JavaScript   32 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### GitHub stats:
-
-<table>
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=talkafk&theme=dark)
+<table style="border: 0;">
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=talkafk&theme=vision-friendly-dark" alt="webDev's Github stats" />
+      <img align="left" src="https://streak-stats.demolab.com?user=talkafk&theme=dark&date_format=j%20M%5B%20Y%5D" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkafk&layout=donut&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkafk&layout=donut&theme=dark" />
     </td>
   </tr>
 </table>
