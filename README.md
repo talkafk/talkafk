@@ -29,7 +29,7 @@ INI          24 mins         ▓░░░░░░░░░░░░░░░░
 <table style="border: 0;">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=talkafk&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=talkafk&theme=dark&short_numbers=true" alt="GitHub Streak" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkafk&layout=donut&theme=dark" />
