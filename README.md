@@ -26,13 +26,6 @@ INI          24 mins         ▓░░░░░░░░░░░░░░░░
 
 ### GitHub stats:
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=talkafk&theme=dark)
-<table style="border: 0;">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=talkafk&theme=dark&short_numbers=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkafk&layout=donut&theme=dark" />
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=talkafk&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkafk&layout=donut&theme=dark" /></a>
