@@ -7,7 +7,7 @@
 - Arduino enthusiast
 
 ### My Skills:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,defold,blender,gimp,inkscape,python,flask,postgresql,mongodb,js,css,html,react,arduino,cpp,platformio,git,github,githubactions,docker,kubernetes,grafana,prometheus,vim,vscode,linux,terminal,arch,manjaro,debian,ubuntu&titles=true&perline=9)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,defold,blender,gimp,inkscape,python,flask,fastapi,postgresql,mongodb,js,css,html,react,arduino,cpp,platformio,git,github,githubactions,docker,kubernetes,grafana,prometheus,vim,vscode,linux,terminal,arch,manjaro,debian,ubuntu&titles=true&perline=9)
 
 
 ### Codewars:
