@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GDScript   19 mins         ████████████████▓░░░░░░░░   66.67 %
+Other      9 mins          ████████▒░░░░░░░░░░░░░░░░   33.12 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
