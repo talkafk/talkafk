@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript         1 hr 21 mins    ██████████████████░░░░░░░   72.09 %
-Other            29 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
-JavaScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Godot Resource   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+GDScript         1 hr 6 mins     █████████████████░░░░░░░░   67.80 %
+Other            29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.79 %
+JavaScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Godot Resource   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
