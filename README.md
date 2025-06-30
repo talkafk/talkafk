@@ -19,10 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript         44 mins         ████████████████▓░░░░░░░░   67.17 %
-Markdown         21 mins         ████████░░░░░░░░░░░░░░░░░   32.63 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Godot Resource   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+GDScript   29 mins         ████████████████████░░░░░   80.61 %
+Markdown   7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.39 %
 ```
 
 <!--END_SECTION:waka-->
