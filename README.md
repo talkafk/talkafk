@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript         5 hrs 24 mins   ████████████████▒░░░░░░░░   65.19 %
-TypeScript       2 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   28.13 %
-Markdown         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Godot Resource   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+GDScript         6 hrs 25 mins   ████████████████▒░░░░░░░░   65.63 %
+TypeScript       2 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+Markdown         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Godot Resource   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Go               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
