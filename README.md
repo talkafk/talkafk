@@ -16,6 +16,9 @@
 
 ### Wakatime:
 
+![wakatime](https://wakatime.com/share/@018dd658-5080-4936-abfa-37487de9ac7a/c453ed74-56f3-42a5-8965-636022d33c4a.svg)
+
+#### Last 7 days
 <!--START_SECTION:waka-->
 
 ```txt
