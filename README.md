@@ -32,7 +32,7 @@ INI              0 secs          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### GitHub stats:
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=talkafk&theme=dark)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=talkafk&theme=dark&rank_icon=percentile)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=talkafk&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkafk&layout=donut&theme=dark" /></a>
