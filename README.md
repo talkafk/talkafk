@@ -22,10 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript         3 hrs 23 mins   ███████████████████████▒░   93.00 %
-Markdown         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Godot Resource   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown         5 hrs 3 mins    ████████████████░░░░░░░░░   63.87 %
+GDScript         2 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   36.11 %
+Godot Resource   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
