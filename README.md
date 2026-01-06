@@ -22,7 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GDScript         25 mins         ███████████████▓░░░░░░░░░   62.22 %
+Other            10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
+Godot Resource   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
