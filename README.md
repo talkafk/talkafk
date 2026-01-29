@@ -22,7 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript   0 secs          █████████████████████████   100.00 %
+GDScript         1 hr 50 mins    █████████████████▓░░░░░░░   71.01 %
+Python           22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Other            18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+Git Config       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Godot Resource   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
