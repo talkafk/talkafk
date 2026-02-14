@@ -22,9 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript         8 hrs 21 mins   ████████████████████████▒   97.21 %
-Godot Resource   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+GDScript         7 hrs 25 mins   ████████████████████████░   96.62 %
+Godot Resource   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
