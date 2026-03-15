@@ -22,7 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GDScript         1 hr 57 mins          ██████████████████████▒░░   89.60 %
+Other            13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+CSV              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Godot Resource   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
