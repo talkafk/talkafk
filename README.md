@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   15 mins               ████████▓░░░░░░░░░░░░░░░░   34.91 %
-JSON                       7 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-Python                     7 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-Git Config                 6 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-CSS                        3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Nginx configuration file   15 mins               ███████▓░░░░░░░░░░░░░░░░░   30.20 %
+GDScript                   8 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+JSON                       7 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+Python                     7 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Git Config                 6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
 ```
 
 <!--END_SECTION:waka-->
