@@ -22,11 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript     16 mins               ███████████████████████▒░   92.98 %
-JSON         0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-INI          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
