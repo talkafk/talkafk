@@ -22,7 +22,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   5 mins                ███████████████▓░░░░░░░░░   63.00 %
+GDScript   3 mins                █████████▒░░░░░░░░░░░░░░░   37.00 %
 ```
 
 <!--END_SECTION:waka-->
